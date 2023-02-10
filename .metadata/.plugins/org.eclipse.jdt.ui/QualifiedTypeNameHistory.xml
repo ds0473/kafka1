@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.requestreply.RequestReplyFuture"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.support.SendResult"/>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.requestreply.ReplyingKafkaTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.core.ProducerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.listener.ConcurrentMessageListenerContainer"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.config.ConcurrentKafkaListenerContainerFactory"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="java.time.Duration"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.annotation.EnableKafka"/>
+<fullyQualifiedTypeName name="org.springframework.kafka.core.KafkaTemplate"/>
+<fullyQualifiedTypeName name="com.kafka.Student.Customer"/>
+<fullyQualifiedTypeName name="com.kafka.Student.RespCustomer"/>
+<fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.boot.web.client.RestTemplateBuilder"/>
+<fullyQualifiedTypeName name="com.volantetech.demo.config.DemoConfiguration"/>
+<fullyQualifiedTypeName name="org.apache.http.ssl.SSLContextBuilder"/>
+<fullyQualifiedTypeName name="javax.net.ssl.SSLContext"/>
+<fullyQualifiedTypeName name="org.apache.http.client.HttpClient"/>
+<fullyQualifiedTypeName name="org.apache.http.conn.ssl.SSLConnectionSocketFactory"/>
+<fullyQualifiedTypeName name="org.springframework.http.client.HttpComponentsClientHttpRequestFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="org.apache.http.impl.client.HttpClients"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="com.nt.model.Temperature"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;Student/src/main/java/com.kafka.Student&apos;&#x0D;&#x0A;- Original project: &apos;Student&apos;&#x0D;&#x0A;- Destination element: &apos;Student/src/main/java/com.kafka.Student&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.kafka.Student.Customer.java&#x0D;&#x0A;     com.kafka.Student.RespCustomer.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src\/main\/java&lt;com.kafka.Student" element1="/src\/test\/java&lt;com.kafka.Student{Customer.java" element2="/src\/test\/java&lt;com.kafka.Student{RespCustomer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1675399293117" units="2" version="1.0"/>
+</session>

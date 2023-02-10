@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TempConverterRestController.java&apos; to &apos;spring-rest-https-server/src/main/java/com.nt.controller&apos;&#x0D;&#x0A;- Original project: &apos;spring-rest-https-server&apos;&#x0D;&#x0A;- Destination element: &apos;spring-rest-https-server/src/main/java/com.nt.controller&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.spring_rest_https_server.TempConverterRestController.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;com.nt.controller" element1="/src\/main\/java&lt;com.nt.spring_rest_https_server{TempConverterRestController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1675918341450" units="1" version="1.0"/>
+</session>
